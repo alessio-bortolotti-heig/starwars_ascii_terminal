@@ -19,13 +19,13 @@ To run the script and start watching Star Wars in ASCII art, follow these steps:
 2. **Navigate to the directory:**
 
    ```bash
-   cd star-wars-ascii
+   cd starwars_ascii_terminal
    ```
 
 3. **Run the script:**
 
    ```bash
-   python starwars.py
+   python3 starwars.py
    ```
 
 The script will read the ASCII art frames from `starwars.txt` and display them in your terminal. It hides the cursor, prints each frame with a delay, and then reactivates the cursor.
