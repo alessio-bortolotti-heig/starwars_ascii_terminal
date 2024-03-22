@@ -29,19 +29,3 @@ To run the script and start watching Star Wars in ASCII art, follow these steps:
    ```
 
 The script will read the ASCII art frames from `starwars.txt` and display them in your terminal. It hides the cursor, prints each frame with a delay, and then reactivates the cursor.
-
-## Requirements
-
-- Python 3.x
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## Credits
-
-This script is inspired by the ASCII art animation of Star Wars. The ASCII art frames used in this script are taken from various sources on the internet.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
