@@ -1,4 +1,4 @@
-# Star Wars ASCII Art
+# Star Wars ASCII terminal
 
 This Python script allows you to watch Star Wars in ASCII art directly in your terminal.
 
