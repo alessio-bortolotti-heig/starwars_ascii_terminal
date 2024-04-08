@@ -20,7 +20,7 @@ To run the script and start watching Star Wars in ASCII art, follow these steps:
 2. **Navigate to the directory:**
 
    ```
-   cd star-wars-ascii
+   cd starwars_ascii_terminal
    ```
 
 3. **Run the script:**
