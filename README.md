@@ -14,7 +14,7 @@ To run the script and start watching Star Wars in ASCII art, follow these steps:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/alessio-bortolotti-heig/star-wars-ascii.git
+   git clone https://github.com/alessio-bortolotti-heig/starwars_ascii_terminal.git
    ```
 
 2. **Navigate to the directory:**
