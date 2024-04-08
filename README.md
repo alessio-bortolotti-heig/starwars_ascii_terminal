@@ -33,4 +33,4 @@ The script will read the ASCII art frames from `starwars.txt` and display them i
 
 ## Copyright Notice
 
-The ASCII art used in the `starwars.txt` file is created by Simon Jansen (C) 1997 - 2015.
+The ASCII art used in the `starwars.txt` file is created by Simon Jansen © 1997 - 2015.
