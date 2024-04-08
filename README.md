@@ -1,4 +1,5 @@
-# Star Wars ASCII terminal
+
+# Star Wars ASCII Terminal
 
 This Python script allows you to watch Star Wars in ASCII art directly in your terminal.
 
@@ -12,20 +13,24 @@ To run the script and start watching Star Wars in ASCII art, follow these steps:
 
 1. **Clone the repository:**
 
-   ```bash
+   ```
    git clone https://github.com/your-username/star-wars-ascii.git
    ```
 
 2. **Navigate to the directory:**
 
-   ```bash
-   cd starwars_ascii_terminal
+   ```
+   cd star-wars-ascii
    ```
 
 3. **Run the script:**
 
-   ```bash
+   ```
    python3 starwars.py
    ```
 
-The script will read the ASCII art frames from `starwars.txt` and display them in your terminal. It hides the cursor, prints each frame with a delay, and then reactivates the cursor.
+The script will read the ASCII art frames from `starwars.txt` and display them in your terminal. It hides the cursor, prints each frame with a delay, and then reactivates the cursor after the last frame.
+
+## Copyright Notice
+
+The ASCII art used in the `starwars.txt` file is created by Simon Jansen (C) 1997 - 2015.
